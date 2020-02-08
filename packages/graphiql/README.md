@@ -1,4 +1,4 @@
-# GraphiQL
+# GraphiQL KostiaSA
 
 [![NPM](https://img.shields.io/npm/v/graphiql.svg)](https://npmjs.com/graphiql)
 ![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/graphiql)
